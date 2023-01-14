@@ -1,3 +1,7 @@
+# Live Demo
+
+[Live Demo](https://news-main-page.netlify.app/)
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
